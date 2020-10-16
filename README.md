@@ -2,7 +2,7 @@
 
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/apiejimenezsoto=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/apiejimenezsotoanuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 Hi, Im Enzo! I am an iOS developer who is passionate about making apps for everyone to enjoy!
 
