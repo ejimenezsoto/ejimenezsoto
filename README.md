@@ -1,21 +1,23 @@
-### Hi there 👋
+
+Hi, Im Enzo! I am an iOS developer who is passionate about making apps for everyone to enjoy! If you would like to collaborate with me on an app or even an idea you can reach me at Enzojimenezsoto@gmail.com.  Subject line "Stop collaborate and listen"
+
+### Skills👨🏽‍💻
+
+- Swift                 - Git and Github
+
+- Objective-C           - Core Data
+
+- Spatial Reasoning     - Networking
+
+- Design Guidelines
 
 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ejimenezsoto)
 
 
 
-Hi, Im Enzo! I am an iOS developer who is passionate about making apps for everyone to enjoy!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 
 
 
