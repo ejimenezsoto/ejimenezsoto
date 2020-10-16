@@ -14,3 +14,12 @@ Hi, Im Enzo! I am an iOS developer who is passionate about making apps for every
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+
+
+
+
+
+
+
