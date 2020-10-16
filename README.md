@@ -2,7 +2,8 @@
 
 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/apiejimenezsoto=anuraghazra)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ejimenezsoto)
+
 
 
 Hi, Im Enzo! I am an iOS developer who is passionate about making apps for everyone to enjoy!
