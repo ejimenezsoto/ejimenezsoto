@@ -3,18 +3,19 @@ Hi, Im Enzo! I am an iOS developer who is passionate about making apps for every
 
 ### Skills👨🏽‍💻
 
-- Swift                 - Git and Github
+- Swift             
 
-- Objective-C           - Core Data
+- Objective-C           
 
-- Spatial Reasoning     - Networking
+- Spatial Reasoning     
 
 - Design Guidelines
 
+- Networking
 
+- Core Data
 
-
-
+ - Git and Github
 
 
 
