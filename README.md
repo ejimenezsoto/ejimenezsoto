@@ -14,11 +14,9 @@ Hi, Im Enzo! Im an iOS developer who is passionate about making apps for everyon
 
 - HTML5 / CSS
 
-- Networking
+- Python
 
-- Core Data
-
- - Git and Github
+- Git Version Control
 
 
 
