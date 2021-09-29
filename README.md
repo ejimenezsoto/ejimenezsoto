@@ -10,9 +10,9 @@ Hi, Im Enzo! Im an iOS developer who is passionate about making apps for everyon
 
 - Objective-C           
 
-- Spatial Reasoning     
+- JavaScript    
 
-- Design Guidelines
+- HTML5 / CSS
 
 - Networking
 
